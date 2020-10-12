@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(62, 27, 129);
+    position: relative;
+    font-size: 20px;
+  }
+
+.jumbotron {
+  background-color: rgb(34, 19, 61);
+}
+
+.jumbotron h1, p {
+  color: white;
+}
+
+.footer {
+  background-color: rgb(34, 19, 61);
+  margin-top: 2px;
+  padding-top: 3px;
+  border-top: 4px;
+}
